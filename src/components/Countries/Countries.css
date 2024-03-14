@@ -2,3 +2,9 @@
     display: grid;
     grid-template-columns: repeat(3,1fr);
 }
+.flag{
+    margin: 10px;
+    padding: 10px;
+    
+    width:100px;
+}
